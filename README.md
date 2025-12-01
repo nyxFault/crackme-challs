@@ -1,2 +1,5 @@
-# crackme-challs
-A repo of crackme challenges that I use in my blog or in my tools to demonstrate them. 
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-%23FF5722?style=for-the-badge)
+
+# Crackme Challenges Repository ⚙️
+
+A curated collection of crackme challenges used in my blog posts and tools to demonstrate them.
